@@ -1,7 +1,7 @@
 ### 👋, my *name* is **Brandon**
 
-I’m currently in coding bootcamp, I’m also looking to collaborate!
-Besides tech, Music is Life!
+I’m currently in coding bootcamp, I’m also looking to collaborate!<br>
+Besides tech, Music is Life!<br>
 Skills: HTML / CSS / JAVASCRIPT / MYSQL / NODE.JS / JQUERY / HANDLEBARS / BOOTSTRAP </p>
 
 
