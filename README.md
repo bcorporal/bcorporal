@@ -1,5 +1,5 @@
-<p align="center">### Hi there 👋, my *name* is **Brandon**</p>
-<p align="center">
+### 👋, my *name* is **Brandon**
+
 I’m currently in coding bootcamp, I’m also looking to collaborate!
 Besides tech, Music is Life!
 Skills: HTML / CSS / JAVASCRIPT / MYSQL / NODE.JS / JQUERY / HANDLEBARS / BOOTSTRAP </p>
