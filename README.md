@@ -6,7 +6,7 @@
   
 ### <div align="center"> My *name* is **Brandon**, a full-stack freelance developer 👨‍💻 </div>  
 
-I’m currently in coding bootcamp specializing in frontend, right now learning backend development and graduating May 2022.<br> I’m also looking to collaborate! Besides tech, **Music is Life**!<br>
+I’m currently in coding bootcamp specializing in frontend, right now learning backend development and graduating May 2022.<br> Besides tech, **Music is Life**!<br> Lets collab... 
 **Skills: HTML / CSS / JAVASCRIPT / MYSQL / NODE.JS / JQUERY / HANDLEBARS / BOOTSTRAP </p>
 
 
