@@ -4,9 +4,9 @@
   
 
   
-### <div align="center"> My *name* is **Brandon**, a full-stack freelance developer 👨‍💻 </div>  
+### <div align="center"> My *name* is **Brandon**, a full-stack freelance developer 👨🏾‍💻 </div>  
 
-I’m currently in coding bootcamp specializing in frontend, right now learning backend development and graduating May 2022.<br> Besides tech, **Music is Life**!<br> Lets collab... 
+I’m currently in coding bootcamp specializing in frontend, currently in the final stages learning backend development. I graduate from University of Pennsylvania's coding bootcamp May 2022. Current skills *Html, Css, UI/UX, Javascript, Mysql, Node.js, Express.js, Moment.js, NPM, JSON, API's, Insomnia, Mongoose, Sequelize, Unit testing, Heroku deployment, Bootstrap, Bulma, terminal, Git, Git bash.* I can develop fully functioning front and backend applications, take a look at some of my repos on my profile. I plan to learn **Python** after bootcamp. Besides tech, **Music is Life**!<br> Lets collab...Very interested in developing a music related app!
 
 <div align="center">  
 <a href="https://bcorporal.github.io/portfolio/" target="_blank">
