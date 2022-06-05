@@ -9,7 +9,7 @@
 I’m currently in coding bootcamp specializing in frontend, currently in the final stages learning backend development. I graduate from University of Pennsylvania's coding bootcamp May 2022. Current skills *Html, Css, UI/UX, Javascript, Mysql, Node.js, Express.js, Moment.js, NPM, JSON, API's, Insomnia, Mongoose, Sequelize, Unit testing, Heroku deployment, Bootstrap, Bulma, terminal, Git, Git bash.* I can develop fully functioning front and backend applications, take a look at some of my project repos on my profile. I plan to learn **Python** after bootcamp. Besides tech, **Music is Life**!<br> Collab? Hit me up...Very interested in developing a music related app!
 
 <div align="center">  
-<a href="[https://bcorporal.github.io/portfolio/](https://bcorporal.github.io/react-portfolio/)" target="_blank">
+<a href="https://bcorporal.github.io/react-portfolio/" target="_blank">
 <img src=https://img.shields.io/badge/-Portfolio%20-orange.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/brandon-corporal-65742822b?challengeId=AQGz37iRRdjHvgAAAYBzZQeDPDGYFSSnmFmjZE6uVivgLyBF8gEkVXCuEbRuFRnKLEP-r834FeOc8wKHE7H1_2Tj0a2jRHVm9Q&submissionId=39f00847-c840-ea16-abee-c30a0523d826" target="_blank">
