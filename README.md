@@ -6,7 +6,7 @@
   
 ### <div align="center"> **Brandon**, full-stack developer 👨🏾‍💻 </div>  
 
-Full stack web developer. Graduated from University of Pennsylvania's coding bootcamp May 2022. Very detailed when it comes to UI/UX. Current skills *Html, Css, React, Javascript, Json, Mysql, Node.js, Express.js, Apollo, API's, Mongoose, Unit testing, Heroku deployment, Bootstrap, terminal, Git.* I can develop fully functioning front and backend applications. Currently learning **Python**. Besides tech, **Music is Life**!<br> Collab?
+Full stack web developer. University of Pennsylvania's Coding bootcamp. Very detailed when it comes to the Front End. Current skills *Html, Css, React, Javascript, Json, Mysql, Node.js, Express.js, Apollo, API's, Mongoose, Unit testing, Heroku deployment, Bootstrap, Git.* I can develop fully functioning front and backend applications. Currently learning **AWS**. Besides tech, **Music is Life**!<br> Collab?
 
 <div align="center">  
 <a href="https://bcorporal.github.io/react-portfolio/" target="_blank">
