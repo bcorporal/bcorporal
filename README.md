@@ -45,7 +45,6 @@ Full stack web developer. Graduated from University of Pennsylvania's coding boo
 
 <div align="center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcorporal)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bcorporal&show_icons=true)  
 
