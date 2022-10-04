@@ -46,7 +46,5 @@ Full stack web developer. Graduated from University of Pennsylvania's coding boo
 <div align="center">  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bcorporal&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/bcorporal)    </div>  
 
