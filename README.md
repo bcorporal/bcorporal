@@ -4,9 +4,9 @@
   
  -->
   
-### <div align="center"> **Brandon**, full-stack web developer 👨🏾‍💻 </div>  
+### <div align="center"> **Full stack web developer 👨🏾‍💻.** </div>  
 
-Full stack web developer. University of Pennsylvania's Coding bootcamp. Very detailed when it comes to the Front End. Current skills *Html, Css, React, Javascript, Json, Mysql, Node.js, Express.js, Apollo, API's, Mongoose, Unit testing, Heroku deployment, Bootstrap, Git.* I can develop fully functioning front and backend applications. Currently learning **AWS**. Besides tech, **Music is Life**!<br> Collab?
+international coder....I prefer React. Design skills and Front end is where you can find me but I have a spot in the backend too.
 
 <div align="center">  
 <a href="https://bcorporal.github.io/react-portfolio/" target="_blank">
