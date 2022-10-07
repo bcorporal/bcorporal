@@ -6,7 +6,7 @@
   
 ### <div align="center"> **Full stack web developer 👨🏾‍💻.** </div>  
 
-international coder....I prefer React. Design skills and Front end is where you can find me but I have a spot in the backend too.
+international coder....I prefer React. Front end is where you can find me but I have a spot in the backend too.
 
 <div align="center">  
 <a href="https://bcorporal.github.io/react-portfolio/" target="_blank">
